@@ -4,7 +4,7 @@ class Shopstream_Analytics_Block_Success_Page_Js extends Mage_Core_Block_Templat
 {
     /**
      * Set default template and help including Shopstream JS for all success pages of magento.
-     * Test
+     * 
      */
     protected function _construct()
     {
